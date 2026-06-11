@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/dijitolnomad" target="blank"><img src="https://img.shields.io/twitter/follow/dijitolnomad?logo=twitter&style=for-the-badge" alt="dijitolnomad" /></a> </p>
 
-- 🔭 I’m currently working on [Virtuals Podium](https://virtualspodium.com)
+- 🔭 I’m currently working on [Phamarcy POS](https://nexauitech.site)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on [Plastic eCommerce](https://comingsoon.com)
+- 👯 I’m looking to collaborate on [Payment Intergration](https://pos.nexauitech.site)
 
 - 🤝 I’m looking for help with [Delivery App](https://powerongo.com)
 
-- 👨‍💻 All of my projects are available at [https://karolih.com](https://karolih.com)
+- 👨‍💻 All of my projects are available at [Nexa Technologies](https://nexauitech.com)
 
 - 📝 I regularly write articles on [https://karolih.com/blogs](https://karolih.com/blogs)
 
-- 💬 Ask me about **PHP, MySQL**
+- 💬 Ask me about **PHP, MySQL, C#, Laravel**
 
 - 📫 How to reach me **karolionyango@gmail.com**
 
